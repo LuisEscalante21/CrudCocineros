@@ -1,0 +1,7 @@
+CREATE TABLE tb_Cocineros (
+UUID_Cocinero VARCHAR2(100),
+Nombre_Cocinero VARCHAR2(100),
+Edad_Cocinero INT,
+Peso_Cocinero DECIMAL,
+Correo_Cocinero VARCHAR2(100)
+)
