@@ -6,6 +6,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import Modelo.Cocineros;
 import Vista.frmCocineros;
+import javax.swing.JFrame;
 
 public class ctrlCocineros implements MouseListener, KeyListener{
     
@@ -66,7 +67,7 @@ public class ctrlCocineros implements MouseListener, KeyListener{
         
         
     }
-
+   
     @Override
     public void mousePressed(MouseEvent e) {
     }
